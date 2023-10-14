@@ -1,4 +1,5 @@
-title: Image To Text Awais Nayyar
+---
+title: Image To Text Lora ViT
 tags:
   - image to text
   - language models
@@ -11,5 +12,7 @@ sdk_version: 3.14.0
 app_file: app.py
 pinned: true
 license: mit
+---
+
 
 # HF_imageTotext_deployment
